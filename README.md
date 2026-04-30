@@ -1,6 +1,6 @@
-# 🚀 Agricultural Object Detection & ML Analysis (AgriSoft Internship)
+# Agricultural Object Detection & ML Analysis (AgriSoft Internship)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was completed as part of an industrial internship at **TOO "AgriSoft"**.
 
@@ -10,18 +10,18 @@ The project combines **computer vision (annotated images)** and **data analysis 
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
-- 📊 Dataset analysis with annotated agricultural images
-- 📦 Bounding box visualization (object detection)
-- 📈 Training results analysis from CSV
-- 📉 Performance metrics visualization (precision, recall, mAP, loss)
-- 🧾 Clean and structured Jupyter Notebook
-- 🔁 Reproducible workflow
+- Dataset analysis with annotated agricultural images
+- Bounding box visualization (object detection)
+- Training results analysis from CSV
+- Performance metrics visualization (precision, recall, mAP, loss)
+- Clean and structured Jupyter Notebook
+- Reproducible workflow
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 agrisoft-ml-internship/
@@ -48,14 +48,14 @@ agrisoft-ml-internship/
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset consists of agricultural field images with annotated bounding boxes.
 
 Each bounding box represents a detected object (crop instance).  
 The dataset contains **90,000+ annotated objects**, making it suitable for training deep learning models.
 
-### 🔍 Dataset Characteristics:
+### Dataset Characteristics:
 - High object density
 - Variability in lighting and environment
 - Complex spatial distribution
@@ -63,13 +63,13 @@ The dataset contains **90,000+ annotated objects**, making it suitable for train
 
 ---
 
-## 📸 Sample Data
+## Sample Data
 
 Annotated images include multiple bounding boxes per frame, demonstrating real-world complexity.
 
 ---
 
-## 📈 Model Training Results
+## Model Training Results
 
 The training results are stored in a CSV file (`results.csv`) and include key performance metrics:
 
@@ -78,7 +78,7 @@ The training results are stored in a CSV file (`results.csv`) and include key pe
 - mAP@0.5
 - Loss values
 
-### 📉 Visualization
+### Visualization
 
 The training process was visualized using Python:
 
@@ -90,16 +90,16 @@ This allows tracking model performance over training epochs.
 
 ---
 
-## 🧪 Technologies Used
+## Technologies Used
 
-- Python 🐍
-- Pandas 📊
-- Matplotlib 📈
-- Jupyter Notebook 📓
+- Python 
+- Pandas 
+- Matplotlib 
+- Jupyter Notebook 
 
 ---
 
-## ⚙️ How to Run
+##  How to Run
 
 1. Open `analysis.ipynb`
 2. Upload `results.csv`
@@ -108,7 +108,7 @@ This allows tracking model performance over training epochs.
 
 ---
 
-## 📌 Results
+##  Results
 
 - The dataset is large and complex
 - Model shows learning behavior across epochs
@@ -117,20 +117,20 @@ This allows tracking model performance over training epochs.
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates a full machine learning workflow:
 
-✔ Dataset understanding  
-✔ Data visualization  
-✔ Model evaluation  
-✔ Real-world application  
+ Dataset understanding  
+ Data visualization  
+Model evaluation  
+ Real-world application  
 
 It highlights the importance of combining **data analysis and machine learning** in industrial environments.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Aruzhan Saparkhankyzy**  
 Astana IT University  
@@ -138,7 +138,7 @@ Computer Science
 
 ---
 
-## ⭐ Notes
+##  Notes
 
 This repository was created for educational and internship purposes.  
 It reflects practical experience with real-world machine learning data.
