@@ -142,3 +142,9 @@ Computer Science
 
 This repository was created for educational and internship purposes.  
 It reflects practical experience with real-world machine learning data.
+
+## Confidentiality
+
+Due to company policies, the full dataset and internal project details cannot be publicly shared.
+
+This repository contains only a limited subset of data and simplified analysis for demonstration purposes. The materials included here reflect the workflow and methodology used during the internship without exposing confidential information.
